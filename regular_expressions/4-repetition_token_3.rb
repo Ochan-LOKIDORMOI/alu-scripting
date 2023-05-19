@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 #This Regex script does not contain square brackets
-puts ARGV[0].scan(/hbtt?n/).join
+puts ARGV[0].scan(/hbtttttttttt?n/).join
